@@ -22,8 +22,7 @@ If the player chooses wisely, then the player can complete the game.
 
 ![image](https://github.com/user-attachments/assets/3dd771b0-c991-41fc-a884-8e2248ab3f06)
 ![image](https://github.com/user-attachments/assets/62979753-c70a-4d24-9496-40b0d56d9cec)
-
-
+![image](https://github.com/user-attachments/assets/05f07182-1dda-41bd-8c25-5d1066a4dc48)
 
 ## Credits
 - I worked on this project solo.
