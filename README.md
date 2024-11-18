@@ -19,5 +19,9 @@ Run the .exe using ./TextAdventure
 - Each "scene" provides choices to make, influencing the narrative.
 - Player can engage in "combat" with a pre-determined outcome.
 If the player chooses wisely, then the player can complete the game.
+
+![image](https://github.com/user-attachments/assets/3dd771b0-c991-41fc-a884-8e2248ab3f06)
+
+
 ## Credits
 - I worked on this project solo.
