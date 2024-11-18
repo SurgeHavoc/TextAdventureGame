@@ -8,7 +8,7 @@ I made this game to help me learn a little bit more about C++ I/O. The concept o
 
 ## What I Learned
 - Mastered I/O.
-- Learned about the "/<thread/>" and "/<chrono/>" libraries.
+- Learned about the "\<thread\>" and "\<chrono\>" libraries.
 
 ## Usage
 ### Starting the Game
